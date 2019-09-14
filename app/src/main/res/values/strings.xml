@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestauranteUdea</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapa">Mapa</string>
+</resources>
